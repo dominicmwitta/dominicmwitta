@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dominicmwitta
 - 👀 I’m interested in data science especially analytics, and machine learning.
-- 🌱 I’m currently learning R, Python and SQL
-- 💞️ I’m looking to collaborate on real world data science projects
+- 🌱 Experienced with R, Python and basic SQL
 - 📫 How to reach me dominicmwitta@gmail.com
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dominicmwitta
-- 👀 I’m interested in data science especially analytics, and machine learning.
+- 👀 I’m interested in data science especially analytics, statistical analysis, time series and machine learning.
 - 🌱 Experienced with R, Python and basic SQL
 - 📫 How to reach me dominicmwitta@gmail.com
 
